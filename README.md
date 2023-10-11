@@ -25,7 +25,7 @@ It's natural that individuals handling more projects tend to invest more hours, 
 
 ![ss2](https://github.com/pushpakGD/user_churn_pred/blob/main/projectImgs/ss2.png)
 
-- The scatterplot above shows that there was a sizeable group of employees who worked ~240–315 hours per month. 315 hours per month is over 75 hours per week for a whole year. It's likely this is related to their satisfaction levels being close to zero.
+- The scatterplot above shows that there was a sizeable group of employees who worked approx 240–315 hours per month. 315 hours per month is over 75 hours per week for a whole year. It's likely this is related to their satisfaction levels being close to zero.
 - The plot also shows another group of people who left, those who had more normal working hours. Even so, their satisfaction was only around 0.4. It's difficult to speculate about why they might have left. It's possible they felt pressured to work more, considering so many of their peers worked more. And that pressure could have lowered their satisfaction levels.
 - Finally, there is a group who worked from 210–280 hours per month, and they had satisfaction levels ranging from 0.7–0.9.
 
